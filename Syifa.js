@@ -588,7 +588,7 @@ Syifa.sendMessage(from, teks, text, {quoted: froxx})
 
 switch(command) {
 case 'sewabot': 
-reply('*「 LIST SEWA 」*  
+reply(`*「 LIST SEWA 」*  
  
  ◪ *PERMANEN 10K*
  ◪ *PERBULAN 8K*
@@ -597,7 +597,7 @@ reply('*「 LIST SEWA 」*
  ➥GOPAY 
  ➥DANA
  ➥QRIS ALLPAY
-*〘 OWNER DIMBOTZ 〙*')
+*〘 OWNER DIMBOTZ 〙*`)
 break
 case 'help':
 case 'menu':
